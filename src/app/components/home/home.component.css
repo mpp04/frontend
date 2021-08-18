@@ -1,0 +1,9 @@
+.hero {
+    background-image: url('src/assets/img/coffee_drinks.jpg') !important;
+    background-size: cover;
+    background-position: center center;
+  }
+
+. container {
+color: rgba(220,220,220,0.56);
+}
